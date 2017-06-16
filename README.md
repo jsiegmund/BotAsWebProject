@@ -18,4 +18,4 @@ Since the project is a Web App, by default F5 will launch IIS Express. With a fe
 - For **Command line arguments** set `host start`
 - For Working directory, specify the root of the project `CoderCardsWebsite` on your machine.
 
-![Start external program settings](https://cloud.githubusercontent.com/assets/4260261/23055872/1d889b4e-f49d-11e6-9a58-42f42c9d02f3.png)
+![Start external program settings](http://blog.repsaj.nl/wp-content/uploads/2017/06/botasweb.png)
