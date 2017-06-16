@@ -1,5 +1,5 @@
 # FunctionsAsWebProject
-Example of a Web App project for Azure Functions 
+Example of a Bot Service instance in a web app project for Azure Functions use
 
 ## Prerequisites 
 
